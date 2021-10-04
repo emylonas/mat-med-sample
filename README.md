@@ -15,3 +15,8 @@ In order to create a web site that is as simple and as future proof as possible,
 ## Rendering XML in the browser
 
 An interesting feature of the Jekyll static page site is that we are not incorporating the edition text in the form of markdown directly into the site. We are, instead, using a javascript library called [CETEIcean](https://github.com/TEIC/CETEIcean) which can take an XML file and insert it into an HTML page, and then apply CSS or other formatting to it in the browser. This lets us take advantage of the richness of the TEI markup, but does not require any processing to happen on the server, in keeping with our minimal approach.
+
+## Some useful links
+
+* Jekyll https://jekyllrb.com/ and The Programming Historian ["Building a static site with Jekyll and GitHub Pages"](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
+
